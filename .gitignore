@@ -1,3 +1,4 @@
 a.out
 __pycache__/
 tempCodeRunnerFile.py
+*.cpython-310.pyc
